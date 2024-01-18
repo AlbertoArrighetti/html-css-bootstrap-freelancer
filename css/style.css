@@ -1,5 +1,5 @@
-.my_bg_nav{
-    background-color: #2c3e50!important;
+.my_bg_black{
+    background-color: #2c3e50;
 }
 .my_bg{
     background-color: #1bbc9b;
@@ -9,4 +9,10 @@
 }
 .my_green_txt{
     color: #1bbc9b;
+}
+.my_icon{
+    width: 38px;
+}
+.pers_height{
+    height: 4px;
 }
